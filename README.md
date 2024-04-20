@@ -1,4 +1,6 @@
+   Project status: Final.
 
+> Technologies Used:  C
 # Mad Libs Game
 
 I developed a barebones Mad Libs game in C as a learning project.
