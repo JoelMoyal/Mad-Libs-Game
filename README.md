@@ -1,7 +1,7 @@
 
 # Mad Libs Game
 
-"I developed a barebones Mad Libs game in C as a learning project."
+I developed a barebones Mad Libs game in C as a learning project.
 
 
 
