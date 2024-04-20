@@ -59,7 +59,7 @@ cd [your_project_directory]
   ./main
 ```
 
-####  Option 2 - Program
+#### Option 2 - Program
 
 Steps:
 1. Navigate to the directory of the project
